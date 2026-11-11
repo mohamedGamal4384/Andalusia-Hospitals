@@ -6,13 +6,13 @@ The **Directors High-Level Dashboard** is a Power BI project designed to provide
 
 The dashboard brings together financial and operational data to help monitor performance, track targets, and identify areas that require further analysis.
 
-## 🖥️ Dashboard Preview
+## 🖥️ Dashboard Previews
 
 ### Landing Page
-![Landing](Screenshots/Landing_Page.png)
+![Landing](Dashboard%20Previews/Landing.png)
 
-### Overview Page
-![overview](Screenshots/Overview.png)
+### Overview
+![overview](Dashboard%20Previews/Overview.png)
 
 ## 📊 Key Features
 
