@@ -12,7 +12,7 @@ The dashboard brings together financial and operational data to help monitor per
 ![Landing](Dashboard%20Previews/Landing.png)
 
 ### Overview
-![overview](Dashboard%20Previews/Overview.png)
+![Overview](Dashboard%20Previews/Overview.png)
 
 ## 📊 Key Features
 
