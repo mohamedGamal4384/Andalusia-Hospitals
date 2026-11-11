@@ -9,10 +9,10 @@ The dashboard brings together financial and operational data to help monitor per
 ## 🖥️ Dashboard Preview
 
 ### Landing Page
-![Landing Page](Screenshots/Landing_Page.png)
+![Landing](Screenshots/Landing_Page.png)
 
 ### Overview Page
-![Overview Page](Screenshots/Overview.png)
+![Overview](Screenshots/Overview.png)
 
 ## 📊 Key Features
 
