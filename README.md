@@ -38,11 +38,12 @@ The dashboard brings together financial and operational data to help monitor per
 - Data Modeling
 - Data Visualization
 
-## 📁 Repository Contents
+## 📁 Repository Structure
 
-- `Screenshots/` – Dashboard screenshots.
-- `Dataset/` – Project dataset.
-- `Project_Files/` – Power BI file and supporting project files.
+- `Dashboard Previews/` – Contains dashboard preview images.
+- `Assets/` – Contains project assets and visual resources.
+- `Data/` – Contains the datasets used in the project.
+- `README.md` – Project documentation.
 
 ## 🎯 Project Objective
 
